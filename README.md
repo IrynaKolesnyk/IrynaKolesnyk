@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Iryna!
 
-👩‍💻  I am junior frontend developer
+👩‍💻  Frontend developer
 💼 HTML / CSS/ JS / REACT
  
 🌱 I’m currently learning Node.js  
