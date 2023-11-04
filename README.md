@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is Iryna!
 
 👩‍💻  Frontend developer
-💼 HTML / CSS/ JS / REACT
- 
-🌱 I’m currently learning Node.js  
+💼 HTML / CSS/ JS / REACT 
  
 <h3 align="left">My stats:</h3>
 
